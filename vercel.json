@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.sympla.com.br/evento-online/maratona-ia-na-sua-carreira---como-comecar-do-jeito-certo/3189573?d=MARATONA",
+      "destination": "https://maratona-ia.lovable.app/",
       "permanent": true
     }
   ]
